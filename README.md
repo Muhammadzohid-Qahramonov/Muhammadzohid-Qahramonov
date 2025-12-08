@@ -28,7 +28,7 @@ Currently focused on creating modern and scalable apps that solve real-world pro
 - I'm wrote this application with clean architecture, bloc/cubit and dio.
 
 **Flutter Developer - [Uch uy media](https://uchuymedia.uz/) - Freelancer**  
-📅 December 2024 – Present
+📅 December 2024 – September
 - We developing **Rara** application. 
 - This application global online auction. You can sell your items worldwide using auctions on this app.  
 - We writing application with clean architecture, bloc/cubit and dio.
