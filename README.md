@@ -7,7 +7,7 @@ Currently focused on creating modern and scalable apps that solve real-world pro
 ---
 
 
-## 🧑‍💻 Experience - 11 months
+## 🧑‍💻 Experience - 1 year
 
 
 **Flutter Developer – [YURTAL](https://yurtal.io)**  
