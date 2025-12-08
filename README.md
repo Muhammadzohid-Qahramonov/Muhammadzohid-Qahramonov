@@ -9,6 +9,13 @@ Currently focused on creating modern and scalable apps that solve real-world pro
 
 ## 🧑‍💻 Experience - 11 months
 
+
+**Flutter Developer – [YURTAL](https://yurtal.io)**  
+📅 July 2025 - present
+- Developing Freya mobile application at now.  
+- Freya: mobile application is online beauty salon services platform. The app helps people visit and use beauty salons and fitness clubs remotely
+- We writing this app using a clean architecture and it will be released to the public soon. 
+
 **Flutter Developer – LUNIX team**  
 📅 July 2025 - present
 - Developing Freya mobile application at now.  
