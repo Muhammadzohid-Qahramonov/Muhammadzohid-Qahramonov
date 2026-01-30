@@ -19,7 +19,10 @@ Currently focused on creating modern and scalable apps that solve real-world pro
 📅 July 2025 - November 2025
 - Developing Freya mobile application at now.  
 - Freya: mobile application is online beauty salon services platform. The app helps people visit and use beauty salons and fitness clubs remotely
-- We writing this app using a clean architecture and it will be released to the public soon. 
+- We wrote this app and published to release.
+- [App Store](https://apps.apple.com/uz/app/freya-hub/id6756543349)
+- [Play Store](https://play.google.com/store/apps/details?id=uz.lunix.freya.app&pcampaignid=web_share)
+  
 
 **Flutter Developer - [Raqamli ta'lim texnologiyalar markazi](https://e-edu.uz/) - Intern**  
 📅 April 2025 – July 2025  
