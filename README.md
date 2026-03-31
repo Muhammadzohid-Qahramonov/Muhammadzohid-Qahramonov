@@ -79,5 +79,5 @@ Currently focused on creating modern and scalable apps that solve real-world pro
 - 📱 Telegram: [Telegram](https://t.me/zohid_flutter_coder)  
 - 🔗 Head Hunter: [Muhammadzohid Qahramonov](https://tashkent.hh.uz/resume/2c01aa5bff0dba8e560039ed1f463439487769)  
 - 🔗 LinkedIn: [Muhammadzohid Qahramonov](https://www.linkedin.com/in/muhammadzohid-qahramonov-a49703296/)  
-- 🐙 GitHub: [@Namoz007](https://github.com/Namoz007)  
+- 🐙 GitHub: [@Muhammadzohid Qahramonov](https://github.com/Muhammadzohid-Qahramonov)  
 - 📞 Phone: **+998 77 265 35 07**  
